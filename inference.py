@@ -93,7 +93,7 @@ if __name__ == "__main__":
     pred_test = final_model.predict(test_set)
     test_auc = roc_auc_score(y_test, pred_test)
     print("Test score {}".format(test_auc))
-    with open("combo3D-baseline_preds.csv", "w+") as f:
+    with open(OUT_FILE, "w+") as f:
         f.write("pred;label\n")
         for p, l in zip(pred_test, y_test):
             print(p, l)
