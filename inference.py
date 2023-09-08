@@ -3,7 +3,6 @@
 
 # inference.py: 
 # Use optimized hyperparameters and radiomics features to predict test data.
-# (C) J. Bleker & C. Roest (2023)
 
 import sys
 
