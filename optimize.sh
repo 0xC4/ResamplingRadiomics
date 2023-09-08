@@ -4,7 +4,6 @@
 # Job used on SLURM cluster to start hyperoptimization trials.
 # To complete many trials in a short amount of time, we start multiple simultaneous
 # jobs using the "--array" SBATCH argument.
-# (C) J. Bleker & C. Roest (2023)
 
 #SBATCH --array=1-10
 #SBATCH --nodes=1
