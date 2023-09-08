@@ -2,7 +2,7 @@
 This repository contains the experimental code and analysis scripts used for the study "The effect of MR image resampling on the performance of radiomics AI in multicenter prostate MRI".
 If you use the code in this repository in your study, please cite to corresponding study:
 ```
-TBD
+TODO
 ```
 
 ## Radiomics modelling
@@ -50,7 +50,7 @@ env/Scripts/activate.ps1
 ### 1. Feature extraction
 TODO
 ```
-TODO
+Code will be up 11-09
 ```
 
 ### 2. Hyperparameter optimization
