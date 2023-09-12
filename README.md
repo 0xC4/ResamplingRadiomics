@@ -1,7 +1,16 @@
 # MRI resampling in multi-center prostate MRI radiomics
 This repository contains the experimental code and analysis scripts used for the study "The effect of MR image resampling on the performance of radiomics AI in multicenter prostate MRI".
 ```
-TODO: add citation
+@article{https://doi.org/10.1002/jmri.28935,
+author = {Bleker, J. and Roest, C. and Yakar, D. and Huisman, H. and Kwee, T.C.},
+title = {The Effect of Image Resampling on the Performance of Radiomics-Based Artificial Intelligence in Multicenter Prostate MRI},
+journal = {Journal of Magnetic Resonance Imaging},
+volume = {n/a},
+number = {n/a},
+pages = {},
+keywords = {MRI, prostatic neoplasms, supervised machine learning, interpolation, pre-processing},
+doi = {https://doi.org/10.1002/jmri.28935}
+}
 ```
 
 ## Radiomics modelling
@@ -30,6 +39,7 @@ source env/bin/activate
 env/Scripts/activate.ps1
 
 # Install packages to the enviroment
+pip install nibabel
 pip install xgboost==1.7.6
 pip install scikit-learn==1.2.2
 pip install optuna==3.1.0
