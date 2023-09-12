@@ -56,10 +56,7 @@ env/Scripts/activate.ps1
 ```
 
 ### 1. Feature extraction
-TODO
-```
-Code will be up 11-09
-```
+The code used for radiomics feature extraction is included in the `feature_extraction.ipynb` notebook file.
 
 ### 2. Hyperparameter optimization
 We used Optuna to optimize the hyperparameters for each radiomics model.
