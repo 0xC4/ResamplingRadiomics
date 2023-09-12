@@ -1,5 +1,5 @@
 # MRI resampling in multi-center prostate MRI radiomics
-This repository contains the experimental code and analysis scripts used for the study "The effect of MR image resampling on the performance of radiomics AI in multicenter prostate MRI".
+This repository contains the experimental code and analysis scripts used for the study "The Effect of Image Resampling on the Performance of Radiomics-Based Artificial Intelligence in Multicenter Prostate MRI".
 ```
 @article{https://doi.org/10.1002/jmri.28935,
 author = {Bleker, J. and Roest, C. and Yakar, D. and Huisman, H. and Kwee, T.C.},
