@@ -8,7 +8,6 @@ journal = {Journal of Magnetic Resonance Imaging},
 volume = {n/a},
 number = {n/a},
 pages = {},
-keywords = {MRI, prostatic neoplasms, supervised machine learning, interpolation, pre-processing},
 doi = {https://doi.org/10.1002/jmri.28935}
 }
 ```
